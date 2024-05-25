@@ -19,6 +19,6 @@
     "csvtojson": "^1.1.9",
     "ml-knn": "^2.0.0",
     "ml-regression": "^4.2.1",
-    "prompt": "^1.0.0"
+    "prompt": "^1.2.0"
   }
 }
